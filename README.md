@@ -1,6 +1,12 @@
 # Algorithm_101
 Notes and code for algorithms I'm learning
 
+# Big-O
+To have "Ruler" to validate/analyze the cost of an algorithm by time and space compexity.
+1. Drop the constants : O(2n) -> O(n)
+2.  Pick the dominant term : O(1) + O(n^2) + O(n!) -> O(n!)
+3. Think of WORST CASE
+
 # Sort
 Rearranging items in collection in order
 why? 1. it's common problem/need 2. many ways to do same job with diffrent pro and con
