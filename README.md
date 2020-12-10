@@ -9,6 +9,7 @@ To have "Ruler" to validate/analyze the cost of an algorithm by time and space c
 
 ![Big O](/images/big_o.jpg)
 > Complexity Growth Illustration from [Big O Cheatsheet](http://bigocheatsheet.com/)
+
 # Sort
 Rearranging items in collection in order
 why? 1. it's common problem/need 2. many ways to do same job with diffrent pro and con
