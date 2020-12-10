@@ -12,7 +12,10 @@ To have "Ruler" to validate/analyze the cost of an algorithm by time and space c
 
 # Sort
 Rearranging items in collection in order
-why? 1. it's common problem/need 2. many ways to do same job with diffrent pro and con
+
+why? 
+1. it's common problem/need 
+2. many ways to do same job with diffrent pro and con
 
 ## Bubble Sort
 Compare two elements next to each other and move **MAX** to end of array
